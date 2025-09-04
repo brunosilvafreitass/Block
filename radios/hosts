@@ -30,3 +30,8 @@
 #radios
 0.0.0.0 www.radios.com.br
 0.0.0.0 radios.com.br
+
+#spotify
+0.0.0.0 open.spotify.com
+0.0.0.0 accounts.spotify.com
+0.0.0.0 spotify.com
