@@ -84,5 +84,5 @@
 0.0.0.0 tudoradio.com
 0.0.0.0 www.kboingfm.com.br
 0.0.0.0 kboingfm.com.br
-http://192.168.0.71:5500/block.html www.antena1.com.br
-http://192.168.0.71:5500/block.html antena1.com.br
+0.0.0.0 www.antena1.com.br
+0.0.0.0 antena1.com.br
